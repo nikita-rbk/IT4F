@@ -1,2 +1,4 @@
 # IT4F
-IT for fin
+IT for fun
+
+Hello, world
